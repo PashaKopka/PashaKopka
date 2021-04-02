@@ -1,8 +1,10 @@
 [![Header](https://github.com/PashaKopka/pashakopka/blob/master/my_logo.png)](https://github.com/PashaKopka)
 
-## Hi there, I'm Pasha👋
+## Hi there, I'm Pavel👋
 
 # I'm a Software Developer
+
+I am student of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”. I am python backend developer, have some experience in frontend. I study and use python for more than 1 year. I worked with different libraries and technologies. Know SQL and NoSQL databases, REST technology, design patterns.
 
 ### Languages and technology:
 
