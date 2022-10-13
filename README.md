@@ -1,5 +1,3 @@
-[![Header](https://github.com/PashaKopka/pashakopka/blob/master/my_logo.png)](https://github.com/PashaKopka)
-
 ## Hi there, I'm Pavel👋
 
 # I'm a Software Developer
