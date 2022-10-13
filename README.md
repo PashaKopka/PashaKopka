@@ -1,4 +1,4 @@
-## Hi there, I'm Pavel👋
+## Hi there, I'm Pavlo👋
 
 # I'm a Software Developer
 
